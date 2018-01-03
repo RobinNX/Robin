@@ -63,8 +63,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: c73c84e4ab0efc8f7012   #生成的clientID
-  clientSecret: 7fa104c42544206aca70843219e5d04f957047fc  #同上
+  clientID: 220e4d56ddf9f22a8318   #生成的clientID
+  clientSecret: 1bc2014e8c84db7223035a88fb5939d0ee855647  #同上
   repo: RobinNX.github.io    #仓库名称
   owner: RobinNX    #github用户名
   admin: RobinNX
